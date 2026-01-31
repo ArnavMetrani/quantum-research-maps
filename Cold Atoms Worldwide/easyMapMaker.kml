@@ -1,0 +1,1233 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name><![CDATA[Cold Atoms Worldwide]]></name>
+<description><![CDATA[World map of cold atoms group. More info: https://github.com/ArnavMetrani/quantum-research-maps]]></description>
+<Style id="red"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/red_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="blue"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/blue_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="green"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/green_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="yellow"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/yellow_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="orange"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/orange_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="purple"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/purple_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="brown"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/brown_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="pink"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/pink_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="dark_green"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/dark_green_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="pale_blue"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/pale_blue_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="dark_pink"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/dark_pink_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="royal_blue"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/royal_blue_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="blue_green"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/blue_green_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="lime_green"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/lime_green_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="pink_purple"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/pink_purple_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="gold"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/gold_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="brown2"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/brown2_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="crimson"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/crimson_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="dark_gray"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/dark_gray_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="light_gray"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/light_gray_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Style id="mocassin"><IconStyle><scale>1</scale> <Icon> <href>https://www.easymapmaker.com/marker_images/mocassin_Marker.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[address]<br /> $[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Placemark><address><![CDATA[Durham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Adams Group</div><div>Institution: Durham</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, CsYb, Ca, RbCs, Sr</div><div>Description: Optical lattice experiments. EIT and magnetometry. Quantum Fluids. Joint Quantum Centre (JQC) Durham-Newcastle</div><a href="http://massey.dur.ac.uk/csa/research.html" target="_blank">http://massey.dur.ac.uk/csa/research.html</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>-1.584852,54.775250,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Haifa Israel]]></address>
+<description><![CDATA[<div>Group: Alon Group</div><div>Institution: University of Haifa</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Theoretical and computational AMO physics with primary interest in BEC and out-of-equilibrium dynamics</div><a href="http://hctpa.haifa.ac.il/index.php/current-members/10-members/current-members/5-prof-ofir-alon" target="_blank">http://hctpa.haifa.ac.il/index.php/current-members/10-members/current-members/5-prof-ofir-alon</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>35.019518,32.761430,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Anderson Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Nonlinear optics, atom optics and optical precision measurements</div><a href="http://dza.colorado.edu/~AOPy/index.html" target="_blank">http://dza.colorado.edu/~AOPy/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Porto Alegre Brazil]]></address>
+<description><![CDATA[<div>Group: Angela Foerster Group</div><div>Institution: Universidade Federal do Rio Grande do Sul</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.if.ufrgs.br/fmtqc" target="_blank">http://www.if.ufrgs.br/fmtqc</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-52.163099,-32.069002,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Montpellier France]]></address>
+<description><![CDATA[<div>Group: Antezza Group</div><div>Institution: Université de Montpellier</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Systems out of equilibrium; ultra cold quantum gases</div><div>People: M. Antezza, B. Guizal, R. Messina, D. Cassagne</div><a href="https://sites.google.com/site/mauroantezza/" target="_blank">https://sites.google.com/site/mauroantezza/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>3.872064,43.615660,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Chiang Mai Thailand]]></address>
+<description><![CDATA[<div>Group: Anukool Group</div><div>Institution: Chiang Mai University</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Rb BEC, single atom trap, atom interferometry</div><a href="http://www.qaocmu.org/" target="_blank">http://www.qaocmu.org/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>98.955774,18.802476,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Aarhus Denmark]]></address>
+<description><![CDATA[<div>Group: Arlt Group</div><div>Institution: Aarhus Universitet</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, RbK</div><div>Description: BEC in optical lattices, molecular quantum gases</div><a href="http://phys.au.dk/uqgg0/" target="_blank">http://phys.au.dk/uqgg0/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>10.203012,56.168138,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Palaiseau France]]></address>
+<description><![CDATA[<div>Group: Aspect Group</div><div>Institution: Institut d'Optique</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Quantum transport in disorder</div><div>People: Alain ASPECT</div><a href="https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/quantum-transport-disorder" target="_blank">https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/quantum-transport-disorder</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.203493,48.713740,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Williamsburg United States]]></address>
+<description><![CDATA[<div>Group: Aubin Group</div><div>Institution: William & Mary</div><div>State: VA</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><a href="http://saaubi.people.wm.edu/ResearchGroup/index.html" target="_blank">http://saaubi.people.wm.edu/ResearchGroup/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-76.713385,37.271553,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Dunedin New Zealand]]></address>
+<description><![CDATA[<div>Group: Ballagh Group</div><div>Institution: University of Otago</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.physics.otago.ac.nz/research/uca/index.html" target="_blank">http://www.physics.otago.ac.nz/research/uca/index.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>170.154757,-45.479067,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Zagreb Croatia]]></address>
+<description><![CDATA[<div>Group: Ban/Buljan Group</div><div>Institution: University of Zagreb/Institute of Physics</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb</div><a href="http://cold.ifs.hr/" target="_blank">http://cold.ifs.hr/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>15.969802,45.810570,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[San Diego United States]]></address>
+<description><![CDATA[<div>Group: Barreiro Group</div><div>Institution: UC San Diego</div><div>State: CA</div><div>Exp/Theory: Exp</div><div>Atoms: Sr</div><a href="http://quantum.ucsd.edu" target="_blank">http://quantum.ucsd.edu</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-117.234014,32.880060,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Singapore Singapore]]></address>
+<description><![CDATA[<div>Group: Barrett Group</div><div>Institution: National University of Singapore</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Neutral Atoms for Quantum Information Processing</div><a href="http://www.quantumlah.org/ultracold/index.html" target="_blank">http://www.quantumlah.org/ultracold/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>103.776394,1.296643,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Fredericton Canada]]></address>
+<description><![CDATA[<div>Group: Barrett Group</div><div>Institution: University of New Brunswick</div><div>State: NB</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>People: Brynle Barrett</div><a href="http://www.quantumlah.org/ultracold/index.html" target="_blank">http://www.quantumlah.org/ultracold/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-66.641089,45.947636,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Becker Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultrafast processes in atoms, molecules and clusters</div><a href="http://jilawww.colorado.edu/beckergroup/" target="_blank">http://jilawww.colorado.edu/beckergroup/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Turin Italy]]></address>
+<description><![CDATA[<div>Group: Bertaina Group</div><div>Institution: Istituto Nazionale di Ricerca Metrologica (INRiM)</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="https://www.inrim.it/en/research/scientific-sectors/time-and-frequency/laboratories-and-activities/quantum-many-body-theory" target="_blank">https://www.inrim.it/en/research/scientific-sectors/time-and-frequency/laboratories-and-activities/quantum-many-body-theory</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>7.638480,45.014511,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Rochester United States]]></address>
+<description><![CDATA[<div>Group: Bigelow Group</div><div>Institution: University of Rochester</div><div>State: NY</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: NaCs, Rb</div><div>Description: BEC, cold molecules, atom chips, non-linear optics</div><a href="http://www.pas.rochester.edu/~catgroup" target="_blank">http://www.pas.rochester.edu/~catgroup</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>-77.626003,43.130553,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Darmstadt Germany]]></address>
+<description><![CDATA[<div>Group: Birkl Group</div><div>Institution: Technische Universität Darmstadt</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb</div><div>Description: Quantum Optics, Atomic Physics, and Quantum Dynamics</div><a href="http://www.physik.tu-darmstadt.de/apq/apq_start.html" target="_blank">http://www.physik.tu-darmstadt.de/apq/apq_start.html</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>8.656140,49.874778,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Dunedin New Zealand]]></address>
+<description><![CDATA[<div>Group: Blakie Group</div><div>Institution: University of Otago</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.physics.otago.ac.nz/research/uca/index.html" target="_blank">http://www.physics.otago.ac.nz/research/uca/index.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>170.154757,-45.479067,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Munich Germany]]></address>
+<description><![CDATA[<div>Group: Bloch Group</div><div>Institution: LMU/MPQ Munich</div><div>Exp/Theory: Exp</div><div>Atoms: Sr, Li, Yb, Rb, K, NaK</div><div>Description: Ultracold quantum gases in optical lattices</div><a href="http://www.quantum-munich.de/" target="_blank">http://www.quantum-munich.de/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>11.666723,48.259664,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Bohn Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Theory of collisions between trapped atoms and molecules</div><a href="http://grizzly.colorado.edu/~bohn/" target="_blank">http://grizzly.colorado.edu/~bohn/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Birmingham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Bongs Group</div><div>Institution: University of Birmingham</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Optical lattices; Bose-Fermi mixtures; optical clock</div><a href="http://mpa.ac.uk/muarc/people/kaibongs.html" target="_blank">http://mpa.ac.uk/muarc/people/kaibongs.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-1.930513,52.450817,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Los Alamos United States]]></address>
+<description><![CDATA[<div>Group: Boshier Group</div><div>Institution: Los Alamos National Laboratory</div><div>State: NM</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://quantum.lanl.gov" target="_blank">http://quantum.lanl.gov</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-106.287162,35.844058,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Palaiseau France]]></address>
+<description><![CDATA[<div>Group: Bouchoule Group</div><div>Institution: Institut d'Optique</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb</div><div>Description: 1D gas on chip</div><a href="https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/degenerate-gases-atom-chips" target="_blank">https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/degenerate-gases-atom-chips</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>2.203493,48.713740,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Chlef Algeria]]></address>
+<description><![CDATA[<div>Group: Boudjemaa Group</div><div>Institution: University Hassiba Benbouali of Chlef</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="https://sites.google.com/site/boudjemaateam" target="_blank">https://sites.google.com/site/boudjemaateam</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>1.241878,36.225373,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Palaiseau France]]></address>
+<description><![CDATA[<div>Group: Bourdel Group</div><div>Institution: Institut d'Optique</div><div>Exp/Theory: Exp</div><div>Atoms: K</div><div>Description: 1D and 2D disordered gases</div><div>People: Thomas BOURDEL</div><a href="https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/disordered-quantum-gases-tunable-interactions" target="_blank">https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/disordered-quantum-gases-tunable-interactions</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.203493,48.713740,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Bordeaux France]]></address>
+<description><![CDATA[<div>Group: Bouyer Group</div><div>Institution: Institut d'Optique Bordeaux</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Sr, RbK</div><div>Description: BEC, Quantum simulators, Atom Interferometry</div><div>People: P. Bouyer, B. Battelier</div><a href="https://www.coldatomsbordeaux.org/" target="_blank">https://www.coldatomsbordeaux.org/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-0.556662,44.829751,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Birmingham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Boyer Group</div><div>Institution: University of Birmingham</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Quantum images; quantum memories</div><a href="http://mpa.ac.uk/muarc/people/vincentboyer.html" target="_blank">http://mpa.ac.uk/muarc/people/vincentboyer.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-1.930513,52.450817,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Dunedin New Zealand]]></address>
+<description><![CDATA[<div>Group: Bradley Group</div><div>Institution: University of Otago</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Non-equilibrium superfluids, quantum vortices</div><a href="http://www.physics.otago.ac.nz/research/btg/" target="_blank">http://www.physics.otago.ac.nz/research/btg/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>170.514423,-45.864683,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Auckland New Zealand]]></address>
+<description><![CDATA[<div>Group: Brand Group</div><div>Institution: Massey University Auckland</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Nonlinear waves/solitons in BEC</div><a href="http://ctcp.massey.ac.nz/~brand" target="_blank">http://ctcp.massey.ac.nz/~brand</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>174.702741,-36.732389,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Lausanne Switzerland]]></address>
+<description><![CDATA[<div>Group: Brantut Group</div><div>Institution: EPFL</div><div>Exp/Theory: Exp</div><div>Atoms: Li</div><div>Description: Lithium, transport and dynamics</div><a href="http://lqg.epfl.ch" target="_blank">http://lqg.epfl.ch</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>6.566758,46.519056,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[New Haven United States]]></address>
+<description><![CDATA[<div>Group: Brown Group</div><div>Institution: Yale University</div><div>State: CT</div><div>Exp/Theory: Exp</div><div>Atoms: He</div><a href="http://brownlab.yale.edu" target="_blank">http://brownlab.yale.edu</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-72.922300,41.316437,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[São João del-Rei Brazil]]></address>
+<description><![CDATA[<div>Group: Caldas Group</div><div>Institution: UFSJ</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold imbalanced Fermi gases</div><div>People: Heron Caldas</div><a href="http://www.ufsj.edu.br/dcnat/heron_caldas_ingles.php" target="_blank">http://www.ufsj.edu.br/dcnat/heron_caldas_ingles.php</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-44.251216,-21.123383,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Golden United States]]></address>
+<description><![CDATA[<div>Group: Carr Group</div><div>Institution: Colorado School of Mines</div><div>State: CO</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Complex quantum systems and nonlinear dynamics</div><a href="http://www.mines.edu/~lcarr/" target="_blank">http://www.mines.edu/~lcarr/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-105.222571,39.751014,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[St Andrews United Kingdom]]></address>
+<description><![CDATA[<div>Group: Cassettari Group</div><div>Institution: University of St Andrews</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Ultracold Rubidium in flexible, holographic potentials</div><div>People: Dr Donatella Cassettari</div><a href="http://www.st-andrews.ac.uk/coldatoms" target="_blank">http://www.st-andrews.ac.uk/coldatoms</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-2.792752,56.341693,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Atlanta United States]]></address>
+<description><![CDATA[<div>Group: Chapman Group</div><div>Institution: Georgia Inst. of Technology</div><div>State: GA</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://www.physics.gatech.edu/ultracool/base.htm" target="_blank">http://www.physics.gatech.edu/ultracool/base.htm</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-84.396285,33.775618,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Beijing China]]></address>
+<description><![CDATA[<div>Group: Chen Group</div><div>Institution: Peking University</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, K</div><div>People: Xuzong Chen; Xiaoji Zhou</div><a href="https://iqe.pku.edu.cn/english/dht_en/cold_atom_and_precision/index.htm" target="_blank">https://iqe.pku.edu.cn/english/dht_en/cold_atom_and_precision/index.htm</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>116.305873,39.986908,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[West Lafayette United States]]></address>
+<description><![CDATA[<div>Group: Chen Group</div><div>Institution: Purdue University</div><div>State: IN</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="https://iqe.pku.edu.cn/english/dht_en/cold_atom_and_precision/index.htm" target="_blank">https://iqe.pku.edu.cn/english/dht_en/cold_atom_and_precision/index.htm</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-86.921366,40.423681,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hangzhou China]]></address>
+<description><![CDATA[<div>Group: Chen Group</div><div>Institution: Zhejiang University</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Fermi gas superfluidity</div><div>People: Qijin Chen</div><a href="https://iqe.pku.edu.cn/english/dht_en/cold_atom_and_precision/index.htm" target="_blank">https://iqe.pku.edu.cn/english/dht_en/cold_atom_and_precision/index.htm</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>120.123279,30.263944,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Palaiseau France]]></address>
+<description><![CDATA[<div>Group: Cheneau Group</div><div>Institution: Institut d'Optique</div><div>Exp/Theory: Exp</div><div>Atoms: Sr</div><div>Description: 2D optical lattice + quantum microscope</div><div>People: Marc CHENEAU</div><a href="https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/dynamique-quantique" target="_blank">https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/dynamique-quantique</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.203493,48.713740,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Chevy Group</div><div>Institution: LKB ENS Paris</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, Li, Dy, Yb, Na, He, Sr</div><a href="http://www.lkb.ens.fr/-Ultracold-Fermi-gases-" target="_blank">http://www.lkb.ens.fr/-Ultracold-Fermi-gases-</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>2.345169,48.842206,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Chicago United States]]></address>
+<description><![CDATA[<div>Group: Chin Group</div><div>Institution: University of Chicago</div><div>State: IL</div><div>Exp/Theory: Exp</div><div>Atoms: Cs, LiCs</div><div>Description: Ultracold Atoms and Molecules</div><a href="http://ultracold.uchicago.edu/homepage/" target="_blank">http://ultracold.uchicago.edu/homepage/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-87.598713,41.788608,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Waterloo Canada]]></address>
+<description><![CDATA[<div>Group: Choi Group</div><div>Institution: IQC, University of Waterloo</div><div>State: ON</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="https://uqml.iqc.uwaterloo.ca" target="_blank">https://uqml.iqc.uwaterloo.ca</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-80.544328,43.471178,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Heidelberg Germany]]></address>
+<description><![CDATA[<div>Group: Chomaz Group</div><div>Institution: University of Heidelberg</div><div>Exp/Theory: Exp</div><div>Atoms: Dy</div><div>Description: Dysprosium atomic gases in lower-dimensional potentials</div><a href="https://www.physi.uni-heidelberg.de/Forschung/QF/" target="_blank">https://www.physi.uni-heidelberg.de/Forschung/QF/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>8.670249,49.419140,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Gaithersburg United States]]></address>
+<description><![CDATA[<div>Group: Clark Group</div><div>Institution: NIST Gaithersburg</div><div>State: MD</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: BEC, coherent matter-wave and quantum information</div><div>People: Charles Clark</div><a href="http://physics.nist.gov/eopd" target="_blank">http://physics.nist.gov/eopd</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-77.220834,39.138053,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Palaiseau France]]></address>
+<description><![CDATA[<div>Group: Clement Group</div><div>Institution: Institut d'Optique</div><div>Exp/Theory: Exp</div><div>Atoms: He</div><div>Description: 3D optical lattice, Mott transition</div><div>People: David CLEMENT</div><a href="https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/lattice-gases" target="_blank">https://www.lcf.institutoptique.fr/groupes-de-recherche/gaz-quantiques/experiences/lattice-gases</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.203493,48.713740,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Canberra Australia]]></address>
+<description><![CDATA[<div>Group: Close/Robins Group</div><div>Institution: ANU, Canberra</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><a href="http://atomlaser.anu.edu.au/" target="_blank">http://atomlaser.anu.edu.au/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>149.118527,-35.277700,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Burlington United States]]></address>
+<description><![CDATA[<div>Group: Clougherty Group</div><div>Institution: University of Vermont</div><div>State: VT</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold atoms with surfaces</div><a href="http://www.uvm.edu/physics/dpc/" target="_blank">http://www.uvm.edu/physics/dpc/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-73.196464,44.477853,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Cambridge United Kingdom]]></address>
+<description><![CDATA[<div>Group: Cooper Group</div><div>Institution: University of Cambridge</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.tcm.phy.cam.ac.uk/~nrc25/" target="_blank">http://www.tcm.phy.cam.ac.uk/~nrc25/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>0.114908,52.204267,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Cornell Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, K</div><div>People: Pam Leland</div><a href="http://jilawww.colorado.edu/bec/CornellGroup/index.html" target="_blank">http://jilawww.colorado.edu/bec/CornellGroup/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Durham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Cornish Group</div><div>Institution: Durham University</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, CsYb, Ca, RbCs, Sr</div><div>Description: BEC with tunable interactions</div><a href="http://massey.dur.ac.uk/" target="_blank">http://massey.dur.ac.uk/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-1.578203,54.764986,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Dalibard Group</div><div>Institution: College de France</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://www.college-de-france.fr/site/en-jean-dalibard/" target="_blank">http://www.college-de-france.fr/site/en-jean-dalibard/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.345490,48.848884,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Rehovot Israel]]></address>
+<description><![CDATA[<div>Group: Davidson Group</div><div>Institution: Weizmann Institute</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: BEC, precision spectroscopy</div><a href="http://www.weizmann.ac.il/complex/NirDavidson/" target="_blank">http://www.weizmann.ac.il/complex/NirDavidson/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>34.808341,31.904505,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Brisbane Australia]]></address>
+<description><![CDATA[<div>Group: Davis Group</div><div>Institution: University of Queensland</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Quantum and atom optics</div><div>People: Matthew Davis</div><a href="http://www.physics.uq.edu.au/people/mdavis/" target="_blank">http://www.physics.uq.edu.au/people/mdavis/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>153.012030,-27.495431,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Urbana United States]]></address>
+<description><![CDATA[<div>Group: DeMarco Group</div><div>Institution: University of Illinois at Urbana-Champaign</div><div>State: IL</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, K</div><a href="http://www.uiuc.edu/~bdemarco" target="_blank">http://www.uiuc.edu/~bdemarco</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-88.225921,40.105216,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[New Haven United States]]></address>
+<description><![CDATA[<div>Group: DeMille Group</div><div>Institution: Yale</div><div>State: CT</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: RbCs, SrF</div><div>Description: Cold molecules and precision measurement</div><div>People: Sidney Cahn</div><a href="http://www.yale.edu/demillegroup/" target="_blank">http://www.yale.edu/demillegroup/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>-72.922343,41.316324,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Ulm Germany]]></address>
+<description><![CDATA[<div>Group: Denschlag Group</div><div>Institution: Universität Ulm</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Li</div><div>Description: Ultracold molecules, atom-ion hybrid systems</div><div>People: Johannes Hecker Denschlag</div><a href="http://www.uni-ulm.de/en/nawi/qm.html" target="_blank">http://www.uni-ulm.de/en/nawi/qm.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>9.955582,48.422230,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Singapore Singapore]]></address>
+<description><![CDATA[<div>Group: Dieckmann Group</div><div>Institution: National University of Singapore</div><div>Exp/Theory: Exp</div><div>Atoms: LiK, Rb</div><a href="http://qmatter.quantumlah.org/" target="_blank">http://qmatter.quantumlah.org/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>103.780310,1.297155,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Budapest Hungary]]></address>
+<description><![CDATA[<div>Group: Domokos Group</div><div>Institution: Wigner Research Centre for Physics</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb</div><div>Description: Cavity QED and ultracold atoms</div><div>People: Péter Domokos</div><a href="https://wigner.hu/en/quantum-optics-and-quantum-information/quantum-optics-group" target="_blank">https://wigner.hu/en/quantum-optics-and-quantum-information/quantum-optics-group</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>18.955729,47.489091,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Cambridge United States]]></address>
+<description><![CDATA[<div>Group: Doyle Group</div><div>Institution: Harvard University</div><div>State: MA</div><div>Exp/Theory: Exp</div><div>Atoms: molecules</div><div>Description: Trapping and cooling of atoms and molecules</div><a href="http://www.doylegroup.harvard.edu" target="_blank">http://www.doylegroup.harvard.edu</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-71.116660,42.377003,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Ann Arbor United States]]></address>
+<description><![CDATA[<div>Group: Duan Group</div><div>Institution: University of Michigan</div><div>State: MI</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Theoretical quantum optics</div><a href="http://www-personal.umich.edu/~lmduan/" target="_blank">http://www-personal.umich.edu/~lmduan/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-83.738224,42.278044,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Utrecht Netherlands]]></address>
+<description><![CDATA[<div>Group: Duine Group</div><div>Institution: Utrecht</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.phys.uu.nl/~duine/" target="_blank">http://www.phys.uu.nl/~duine/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>5.121420,52.090737,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Orsay France]]></address>
+<description><![CDATA[<div>Group: Dulieu Group</div><div>Institution: CNRS, Orsay</div><div>Exp/Theory: Theory</div><div>Atoms: Rb, Er, theory</div><div>Description: Molecular structure calculations</div><a href="http://www.lac.u-psud.fr/spip.php?rubrique324&lang=fr" target="_blank">http://www.lac.u-psud.fr/spip.php?rubrique324&lang=fr</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>2.172559,48.707153,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Singapore Singapore]]></address>
+<description><![CDATA[<div>Group: Dumke Group</div><div>Institution: Nanyang Technological University</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Quantum Optics, Atomic Physics</div><a href="http://www1.spms.ntu.edu.sg/~rdumke/" target="_blank">http://www1.spms.ntu.edu.sg/~rdumke/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>103.683135,1.348310,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Berlin Germany]]></address>
+<description><![CDATA[<div>Group: Eckardt Group</div><div>Institution: TU Berlin</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Many-body quantum systems far from equilibrium</div><div>People: André Eckardt</div><a href="https://www.itp.tu-berlin.de/eckardt" target="_blank">https://www.itp.tu-berlin.de/eckardt</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>13.326981,52.512536,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Pullman United States]]></address>
+<description><![CDATA[<div>Group: Engels Group</div><div>Institution: Washington State University</div><div>State: WA</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, K</div><a href="http://www.physics.wsu.edu/Research/engels/index.html" target="_blank">http://www.physics.wsu.edu/Research/engels/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-117.154212,46.731923,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Zurich Switzerland]]></address>
+<description><![CDATA[<div>Group: Esslinger Group</div><div>Institution: ETH Zurich</div><div>Exp/Theory: Exp</div><div>Atoms: K, Rb, Li</div><a href="http://www.quantumoptics.ethz.ch/" target="_blank">http://www.quantumoptics.ethz.ch/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>8.547670,47.376313,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Calgary Canada]]></address>
+<description><![CDATA[<div>Group: Feder Group</div><div>Institution: University of Calgary</div><div>State: AB</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold bosons and fermions</div><div>People: David Feder</div><a href="http://www.iqis.org/people/home/dfeder/" target="_blank">http://www.iqis.org/people/home/dfeder/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-114.135801,51.078160,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Innsbruck Austria]]></address>
+<description><![CDATA[<div>Group: Ferlaino Group</div><div>Institution: Univ. Innsbruck</div><div>Exp/Theory: Exp</div><div>Atoms: Er, Dy</div><div>Description: Ultracold erbium atoms</div><a href="http://www.erbium.at/FF/" target="_blank">http://www.erbium.at/FF/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>11.383801,47.263354,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Nottingham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Fernholz Group</div><div>Institution: University of Nottingham</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>People: Thomas Fernholz</div><a href="http://coldatomsgroupnottingham.com" target="_blank">http://coldatomsgroupnottingham.com</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-1.195158,52.938636,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Trento Italy]]></address>
+<description><![CDATA[<div>Group: Ferrari Group</div><div>Institution: University of Trento</div><div>Exp/Theory: Exp</div><div>Atoms: Na, NaK</div><div>Description: Spontaneous creation of solitons</div><div>People: Gabriele Ferrari, Giacomo Lamporesi</div><a href="http://bec.science.unitn.it/" target="_blank">http://bec.science.unitn.it/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>11.121046,46.069477,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Seoul South Korea]]></address>
+<description><![CDATA[<div>Group: Fischer Group</div><div>Institution: Seoul National University</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://phya.snu.ac.kr/fischer" target="_blank">http://phya.snu.ac.kr/fischer</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>126.951905,37.459882,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Beer Sheva Israel]]></address>
+<description><![CDATA[<div>Group: Folman Group</div><div>Institution: Ben Gurion University</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Atom chips</div><a href="http://www.bgu.ac.il/atomchip/" target="_blank">http://www.bgu.ac.il/atomchip/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>34.801461,31.262218,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Oxford United Kingdom]]></address>
+<description><![CDATA[<div>Group: Foot Group</div><div>Institution: Oxford</div><div>Exp/Theory: Exp</div><div>Atoms: Sr</div><a href="https://coldatoms.web.ox.ac.uk/" target="_blank">https://coldatoms.web.ox.ac.uk/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-1.257726,51.752021,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Pullman United States]]></address>
+<description><![CDATA[<div>Group: Forbes Group</div><div>Institution: Washington State University</div><div>State: WA</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Dynamical properties of quantum many-body systems</div><div>People: Michael McNeil Forbes</div><a href="https://labs.wsu.edu/forbes" target="_blank">https://labs.wsu.edu/forbes</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-117.162285,46.731028,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Southampton United Kingdom]]></address>
+<description><![CDATA[<div>Group: Freegarde/Himsworth Group</div><div>Institution: University of Southampton</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb</div><div>Description: Atom interferometry and quantum computation</div><div>People: Tim Freegarde and Matt Himsworth</div><a href="http://phyweb.phys.soton.ac.uk/quantum/research.php" target="_blank">http://phyweb.phys.soton.ac.uk/quantum/research.php</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>-1.398030,50.936284,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Nottingham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Fromhold Group</div><div>Institution: University of Nottingham</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.nottingham.ac.uk/%7Eppzkab/ColdAtoms/" target="_blank">http://www.nottingham.ac.uk/%7Eppzkab/ColdAtoms/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-1.195158,52.938636,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Urbana United States]]></address>
+<description><![CDATA[<div>Group: Gadway Group</div><div>Institution: University of Illinois at Urbana-Champaign</div><div>State: IL</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><a href="http://publish.illinois.edu/gadwaylab/" target="_blank">http://publish.illinois.edu/gadwaylab/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-88.225921,40.105216,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Durham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Gardiner Group</div><div>Institution: Durham University</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: BEC theory, quantum chaos, atom optics</div><a href="http://massey.dur.ac.uk/" target="_blank">http://massey.dur.ac.uk/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-1.578203,54.764986,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Heidelberg Germany]]></address>
+<description><![CDATA[<div>Group: Gasenzer Group</div><div>Institution: University of Heidelberg</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Many-body dynamics of ultracold quantum gases</div><div>People: Thomas Gasenzer</div><a href="http://www.kip.uni-heidelberg.de/gasenzer" target="_blank">http://www.kip.uni-heidelberg.de/gasenzer</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>8.670249,49.419140,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Krakow Poland]]></address>
+<description><![CDATA[<div>Group: Gawlik Group</div><div>Institution: Jagiellonian University</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Sr</div><div>Description: MOTs & optical traps, spectroscopy</div><div>People: Michal Zawada, Jerzy Zachorowski</div><a href="http://www.if.uj.edu.pl/ZF/qnog/" target="_blank">http://www.if.uj.edu.pl/ZF/qnog/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>19.904759,50.029727,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Gerbier Group</div><div>Institution: LKB, ENS Paris</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Li, Dy, Yb, Na, He, Sr</div><div>Description: Mesoscopic BECs</div><div>People: Fabrice Gerbier</div><a href="http://www.lkb.upmc.fr/boseeinsteincondensates/gerbier/" target="_blank">http://www.lkb.upmc.fr/boseeinsteincondensates/gerbier/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.345169,48.842206,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[New Delhi India]]></address>
+<description><![CDATA[<div>Group: Ghosh Group</div><div>Institution: Indian Institute of Technology Delhi</div><div>Exp/Theory: Theory</div><div>Atoms: Li, theory</div><div>Description: Ultra cold atoms under synthetic gauge field</div><div>People: Sankalpa Ghosh</div><a href="http://web.iitd.ac.in/~sankalpa" target="_blank">http://web.iitd.ac.in/~sankalpa</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>77.192628,28.544976,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[University Park United States]]></address>
+<description><![CDATA[<div>Group: Gibble Group</div><div>Institution: Penn State</div><div>State: PA</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Cd</div><a href="http://www.phys.psu.edu/~kgibble/" target="_blank">http://www.phys.psu.edu/~kgibble/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-77.859908,40.798213,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Glorieux Group</div><div>Institution: LKB, ENS Paris</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Li, Dy, Yb, Na, He, Sr</div><div>Description: Quantum fluid of light</div><a href="http://www.quantumoptics.fr" target="_blank">http://www.quantumoptics.fr</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.345169,48.842206,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Birmingham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Goldwin Group</div><div>Institution: University of Birmingham</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Cavity QED; quantum degenerate Fermi gases</div><a href="http://mpa.ac.uk/muarc/people/jongoldwin.html" target="_blank">http://mpa.ac.uk/muarc/people/jongoldwin.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-1.930513,52.450817,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Villetaneuse France]]></address>
+<description><![CDATA[<div>Group: Gorceix Group</div><div>Institution: Université Paris Nord / CNRS</div><div>Exp/Theory: Exp</div><div>Atoms: Cr, Sr</div><div>Description: Dipolar BECs of Cr atoms</div><div>People: Olivier GORCEIX</div><a href="http://www-lpl.univ-paris13.fr:8082/" target="_blank">http://www-lpl.univ-paris13.fr:8082/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.341454,48.956155,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Greene Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://fermion.colorado.edu/~chg/NewPages/" target="_blank">http://fermion.colorado.edu/~chg/NewPages/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Cambridge United States]]></address>
+<description><![CDATA[<div>Group: Greiner Group</div><div>Institution: Harvard</div><div>State: MA</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Li, Er</div><a href="http://greiner.physics.harvard.edu/" target="_blank">http://greiner.physics.harvard.edu/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-71.116660,42.377003,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Innsbruck Austria]]></address>
+<description><![CDATA[<div>Group: Grimm Group</div><div>Institution: Innsbruck</div><div>Exp/Theory: Exp</div><div>Atoms: RbCs, Cs, LiK, KCs, DyK</div><a href="http://www2.uibk.ac.at/exphys/ultracold/" target="_blank">http://www2.uibk.ac.at/exphys/ultracold/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>11.404102,47.269212,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Toulouse France]]></address>
+<description><![CDATA[<div>Group: Guery-Odelin Group</div><div>Institution: Université Paul Sabatier</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Ultracold atomic beam, atom laser</div><div>People: Thierry Lahaye & Renaud Mathevet</div><a href="https://www.quantumengineering-tlse.org/research/bec-experiment/" target="_blank">https://www.quantumengineering-tlse.org/research/bec-experiment/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>1.468859,43.560378,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Cambridge United Kingdom]]></address>
+<description><![CDATA[<div>Group: Hadzibabic Group</div><div>Institution: Cambridge University</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, K or Rb+K</div><a href="http://www.amop.phy.cam.ac.uk/amop-zh/index.html" target="_blank">http://www.amop.phy.cam.ac.uk/amop-zh/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>0.114908,52.204267,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Hall Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Laser stabilization and precise scan techniques</div><a href="http://jilawww.colorado.edu/hall/" target="_blank">http://jilawww.colorado.edu/hall/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Mobile United States]]></address>
+<description><![CDATA[<div>Group: Han Group</div><div>Institution: University of South Alabama</div><div>State: AL</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>People: Jianing Han</div><a href="https://www.southalabama.edu/colleges/artsandsci/physics/han.html" target="_blank">https://www.southalabama.edu/colleges/artsandsci/physics/han.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-88.184334,30.695768,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Melbourne Australia]]></address>
+<description><![CDATA[<div>Group: Hannaford / CAOUS Group</div><div>Institution: Swinburne</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: LiK, Rb</div><div>People: Andrei Sidorov</div><a href="http://www.swinburne.edu.au/engineering/caous/" target="_blank">http://www.swinburne.edu.au/engineering/caous/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>145.038955,-37.822150,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Cambridge United States]]></address>
+<description><![CDATA[<div>Group: Hau Group</div><div>Institution: Harvard</div><div>State: MA</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Na</div><a href="http://www.deas.harvard.edu/haulab/" target="_blank">http://www.deas.harvard.edu/haulab/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-71.116660,42.377003,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Austin United States]]></address>
+<description><![CDATA[<div>Group: Heinzen Group</div><div>Institution: University of Texas</div><div>State: TX</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, He, Li, Cs</div><a href="http://www.ph.utexas.edu/dept/research/heinzen/" target="_blank">http://www.ph.utexas.edu/dept/research/heinzen/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-97.734057,30.284918,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hamburg Germany]]></address>
+<description><![CDATA[<div>Group: Hemmerich Group</div><div>Institution: University of Hamburg</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Atoms in optical lattices and cavities</div><a href="https://www.physik.uni-hamburg.de/en/ilp/hemmerich.html" target="_blank">https://www.physik.uni-hamburg.de/en/ilp/hemmerich.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>9.984620,53.566564,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[London United Kingdom]]></address>
+<description><![CDATA[<div>Group: Hinds Group</div><div>Institution: Imperial College</div><div>Exp/Theory: Exp</div><div>Atoms: Li(molecules), CaF, YbF, He</div><a href="http://www.imperial.ac.uk/ccm/" target="_blank">http://www.imperial.ac.uk/ccm/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-0.174877,51.498800,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Holland Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>People: J. Cooper</div><a href="http://bdagger.colorado.edu/" target="_blank">http://bdagger.colorado.edu/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Auckland New Zealand]]></address>
+<description><![CDATA[<div>Group: Hoogerland Group</div><div>Institution: University of Auckland</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Cs</div><a href="http://qilab.phy.auckland.ac.nz/" target="_blank">http://qilab.phy.auckland.ac.nz/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>174.769107,-36.852338,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Durham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Hughes Group</div><div>Institution: Durham University</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, CsYb, Ca, RbCs, Sr</div><div>Description: Atom optics. Laser cooling of atoms and molecules</div><a href="http://massey.dur.ac.uk/" target="_blank">http://massey.dur.ac.uk/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-1.578203,54.764986,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Houston United States]]></address>
+<description><![CDATA[<div>Group: Hulet Group</div><div>Institution: Rice</div><div>State: TX</div><div>Exp/Theory: Exp</div><div>Atoms: Li</div><a href="http://atomcool.rice.edu/" target="_blank">http://atomcool.rice.edu/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-95.401800,29.717400,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Dunedin New Zealand]]></address>
+<description><![CDATA[<div>Group: Hutchinson Group</div><div>Institution: University of Otago</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.physics.otago.ac.nz/research/uca/index.html" target="_blank">http://www.physics.otago.ac.nz/research/uca/index.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>170.154757,-45.479067,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Durham United Kingdom]]></address>
+<description><![CDATA[<div>Group: Hutson Group</div><div>Institution: Durham University</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Formation and properties of ultracold molecules</div><div>People: Jeremy M. Hutson</div><a href="http://community.dur.ac.uk/j.m.hutson/jmh.group.html" target="_blank">http://community.dur.ac.uk/j.m.hutson/jmh.group.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-1.578203,54.764986,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Munich Germany]]></address>
+<description><![CDATA[<div>Group: Hänsch Group</div><div>Institution: LMU München/MPQ</div><div>Exp/Theory: Exp</div><div>Atoms: Ions, He+</div><a href="http://www.mpq.mpg.de/~haensch/" target="_blank">http://www.mpq.mpg.de/~haensch/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>11.666723,48.259664,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Florence Italy]]></address>
+<description><![CDATA[<div>Group: Inguscio Group</div><div>Institution: LENS Firenze</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, Dy, K, KRb, Yb</div><div>Description: BEC, Heteronuclear mixtures</div><div>People: Chiara Fort, Francesco Minardi</div><a href="http://quantumgases.lens.unifi.it" target="_blank">http://quantumgases.lens.unifi.it</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>11.192811,43.818864,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Oxford United Kingdom]]></address>
+<description><![CDATA[<div>Group: Jaksch Group</div><div>Institution: Oxford</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Quantum Optics, Ultra-cold physics</div><a href="http://www.physics.ox.ac.uk/groups/qubit/" target="_blank">http://www.physics.ox.ac.uk/groups/qubit/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-1.256434,51.759810,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Heidelberg Germany]]></address>
+<description><![CDATA[<div>Group: Jendrzejewski Group</div><div>Institution: Heidelberg University</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Ultracold atomic mixtures</div><a href="http://www.kip.uni-heidelberg.de/user/fnj/" target="_blank">http://www.kip.uni-heidelberg.de/user/fnj/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>8.670249,49.419140,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Houston United States]]></address>
+<description><![CDATA[<div>Group: Jo Group</div><div>Institution: Rice University</div><div>State: TX</div><div>Exp/Theory: Exp</div><div>Atoms: Yb</div><a href="http://ultracold.ust.hk/" target="_blank">http://ultracold.ust.hk/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-95.401800,29.717400,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Heidelberg Germany]]></address>
+<description><![CDATA[<div>Group: Jochim Group</div><div>Institution: Heidelberg</div><div>Exp/Theory: Exp</div><div>Atoms: Li</div><div>Description: Ultracold fermions and few-body systems</div><a href="http://www.lithium6.de" target="_blank">http://www.lithium6.de</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>8.672434,49.398752,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Nice France]]></address>
+<description><![CDATA[<div>Group: Kaiser Group</div><div>Institution: INLN, CNRS</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: unknown</div><div>Description: Cold Atoms and Light Scattering</div><div>People: Robin Kaiser, William Guerin</div><a href="http://www.inln.cnrs.fr/activites/themesrecherche/atomes-froids" target="_blank">http://www.inln.cnrs.fr/activites/themesrecherche/atomes-froids</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>7.060058,43.617282,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Umeå Sweden]]></address>
+<description><![CDATA[<div>Group: Kastberg Group</div><div>Institution: Umeå University</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: unknown</div><div>Description: Coherent Matter in Optical Lattices</div><a href="http://www.phys.umu.se/coldmatter/" target="_blank">http://www.phys.umu.se/coldmatter/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>20.303671,63.820548,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Cambridge United States]]></address>
+<description><![CDATA[<div>Group: Ketterle Group</div><div>Institution: MIT, Cambridge</div><div>State: MA</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Na, Li, Dy</div><a href="http://cua.mit.edu/ketterle_group/" target="_blank">http://cua.mit.edu/ketterle_group/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-71.094160,42.360091,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[San Jose United States]]></address>
+<description><![CDATA[<div>Group: Khatami Group</div><div>Institution: San Jose State University</div><div>State: CA</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Quantum simulations of strongly correlated systems</div><a href="http://www.sjsu.edu/people/ehsan.khatami/" target="_blank">http://www.sjsu.edu/people/ehsan.khatami/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-121.881234,37.335294,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Brisbane Australia]]></address>
+<description><![CDATA[<div>Group: Kheruntsyan Group</div><div>Institution: University of Queensland</div><div>Exp/Theory: Theory</div><div>Atoms: He, theory</div><div>Description: Degenerate quantum gases and atom optics</div><a href="http://physics.uq.edu.au/people/kherunts/" target="_blank">http://physics.uq.edu.au/people/kherunts/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>153.012030,-27.495431,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Houston United States]]></address>
+<description><![CDATA[<div>Group: Killian Group</div><div>Institution: Rice</div><div>State: TX</div><div>Exp/Theory: Exp</div><div>Atoms: Sr</div><div>Description: Ultracold neutral plasmas</div><a href="http://www.owlnet.rice.edu/~killian/index.shtml" target="_blank">http://www.owlnet.rice.edu/~killian/index.shtml</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-95.401800,29.717400,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Canberra Australia]]></address>
+<description><![CDATA[<div>Group: Kivshar Group</div><div>Institution: ANU, Canberra</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Nonlinear Physics</div><div>People: Dragomir N. Neshev</div><a href="http://rsphy2.anu.edu.au/nonlinear/" target="_blank">http://rsphy2.anu.edu.au/nonlinear/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>149.118527,-35.277700,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Dunedin New Zealand]]></address>
+<description><![CDATA[<div>Group: Kjaergaard Group</div><div>Institution: University of Otago</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><a href="http://www.otago.ac.nz/physics/staff/NielsKjaergaard.html" target="_blank">http://www.otago.ac.nz/physics/staff/NielsKjaergaard.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>170.514423,-45.864683,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Salem United States]]></address>
+<description><![CDATA[<div>Group: Kleinert Group</div><div>Institution: Willamette University</div><div>State: OR</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Sr</div><div>Description: Mixed species MOT Rb/Sr</div><a href="http://www.willamette.edu/~mkleiner/Atom_Cooling_%26_Trapping/Welcome.html" target="_blank">http://www.willamette.edu/~mkleiner/Atom_Cooling_%26_Trapping/Welcome.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-123.031860,44.935971,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Eindhoven Netherlands]]></address>
+<description><![CDATA[<div>Group: Kokkelmans/Vredenbregt/Lous Group</div><div>Institution: Eindhoven University of Technology</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: unknown</div><div>Description: Rydberg Quantum Computing</div><div>People: Servaas Kokkelmans</div><a href="https://www.tue.nl/en/research/research-groups/coherence-and-quantum-technology/" target="_blank">https://www.tue.nl/en/research/research-groups/coherence-and-quantum-technology/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>5.485887,51.448069,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Philadelphia United States]]></address>
+<description><![CDATA[<div>Group: Kotochigova Group</div><div>Institution: Temple University/NIST</div><div>State: PA</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="https://www.kotochigova.net/" target="_blank">https://www.kotochigova.net/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-75.153054,39.981988,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Vancouver Canada]]></address>
+<description><![CDATA[<div>Group: Krems Group</div><div>Institution: UBC</div><div>State: BC</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Chemical reactions with external fields</div><a href="http://www.chem.ubc.ca/faculty/krems/" target="_blank">http://www.chem.ubc.ca/faculty/krems/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-123.245994,49.260605,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Tokyo Japan]]></address>
+<description><![CDATA[<div>Group: Kuga Group</div><div>Institution: Tokyo</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Na</div><a href="https://www.researchgate.net/profile/Takahiro_Kuga" target="_blank">https://www.researchgate.net/profile/Takahiro_Kuga</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>139.691706,35.689487,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Bonn Germany]]></address>
+<description><![CDATA[<div>Group: Köhl Group</div><div>Institution: University of Bonn</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: BEC, Fermi gases, single atoms</div><a href="https://www.quantum.uni-bonn.de/" target="_blank">https://www.quantum.uni-bonn.de/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>7.086523,50.726771,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Nice France]]></address>
+<description><![CDATA[<div>Group: Labeyrie Group</div><div>Institution: INLN, Nice</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: unknown</div><div>People: Guillaume Labeyrie</div><a href="http://www.inln.cnrs.fr/rubrique.php3?id_rubrique=150" target="_blank">http://www.inln.cnrs.fr/rubrique.php3?id_rubrique=150</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>7.060058,43.617282,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Landragin Group</div><div>Institution: SyRTE/Observatoire de Paris</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://syrte.obspm.fr/tfc/capteurs_inertiels/frame.html?http://syrte.obspm.fr/tfc/capteurs_inertiels/" target="_blank">http://syrte.obspm.fr/tfc/capteurs_inertiels/frame.html?http://syrte.obspm.fr/tfc/capteurs_inertiels/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.336512,48.835892,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Edmonton Canada]]></address>
+<description><![CDATA[<div>Group: LeBlanc Group</div><div>Institution: University of Alberta</div><div>State: AB</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><a href="https://sites.ualberta.ca/~ljleblan/" target="_blank">https://sites.ualberta.ca/~ljleblan/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-113.526319,53.523219,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Ann Arbor United States]]></address>
+<description><![CDATA[<div>Group: Leanhardt Group</div><div>Institution: University of Michigan</div><div>State: MI</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Permanent electron dipole moment</div><a href="http://www-personal.umich.edu/~aehardt/" target="_blank">http://www-personal.umich.edu/~aehardt/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-83.738224,42.278044,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Stanford United States]]></address>
+<description><![CDATA[<div>Group: Lev Group</div><div>Institution: Stanford University</div><div>State: CA</div><div>Exp/Theory: Exp</div><div>Atoms: Dy</div><div>Description: Ultracold dipolar gases; atom chips</div><a href="http://levlab.stanford.edu/" target="_blank">http://levlab.stanford.edu/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-122.169719,37.427475,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Lewandowski Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, molecules</div><div>Description: Ultracold molecules</div><a href="http://jilawww.colorado.edu/lewandowskilab/" target="_blank">http://jilawww.colorado.edu/lewandowskilab/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Stillwater United States]]></address>
+<description><![CDATA[<div>Group: Liu Group</div><div>Institution: Oklahoma State University</div><div>State: OK</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Na</div><a href="http://physics.okstate.edu/liu/index.html" target="_blank">http://physics.okstate.edu/liu/index.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-97.073722,36.127024,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Lewiston United States]]></address>
+<description><![CDATA[<div>Group: Lundblad Group</div><div>Institution: Bates College</div><div>State: ME</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Ultracold gases, BEC, optical lattices</div><div>People: Nathan Lundblad</div><a href="http://abacus.bates.edu/~nlundbla" target="_blank">http://abacus.bates.edu/~nlundbla</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-70.202186,44.105722,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Natal Brazil]]></address>
+<description><![CDATA[<div>Group: Macrì Group</div><div>Institution: Universidade Federal do Rio Grande do Norte</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold quantum matter</div><div>People: Tommaso Macrì</div><a href="http://statphys.fisica.ufrn.br/macri" target="_blank">http://statphys.fisica.ufrn.br/macri</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-35.200773,-5.839371,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Vancouver Canada]]></address>
+<description><![CDATA[<div>Group: Madison Group</div><div>Institution: UBC</div><div>State: BC</div><div>Exp/Theory: Exp</div><div>Atoms: Na, Rb, Li</div><a href="http://www.physics.ubc.ca/~qdg/" target="_blank">http://www.physics.ubc.ca/~qdg/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-123.245994,49.260605,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Warsaw Poland]]></address>
+<description><![CDATA[<div>Group: Magierski Group</div><div>Institution: Warsaw University of Technology</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Nonequilibrium processes in superfluid Fermi systems</div><div>People: Piotr Magierski</div><a href="http://www.fizyka.pw.edu.pl/nuclear/index.html" target="_blank">http://www.fizyka.pw.edu.pl/nuclear/index.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>21.008086,52.221201,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[São Paulo Brazil]]></address>
+<description><![CDATA[<div>Group: Marcassa Group</div><div>Institution: University of São Paulo</div><div>Exp/Theory: Exp</div><div>Atoms: K, Rb</div><div>Description: Atomic interaction in cold trapped atoms</div><div>People: Luis G. Marcassa</div><a href="http://www.fotonica.ifsc.usp.br/research/atomic.php" target="_blank">http://www.fotonica.ifsc.usp.br/research/atomic.php</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-46.730789,-23.561399,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Waterloo Canada]]></address>
+<description><![CDATA[<div>Group: Martin Group</div><div>Institution: Waterloo</div><div>State: ON</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Rydberg atoms</div><a href="http://www.science.uwaterloo.ca/~jddmarti/" target="_blank">http://www.science.uwaterloo.ca/~jddmarti/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-80.520410,43.464258,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Storrs United States]]></address>
+<description><![CDATA[<div>Group: McCarron Group</div><div>Institution: University of Connecticut</div><div>State: CT</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, RbCs, AlCl, CH</div><div>Description: Cold molecules</div><a href="http://themccarrongroup.com" target="_blank">http://themccarrongroup.com</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-72.253980,41.807733,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Burnaby Canada]]></address>
+<description><![CDATA[<div>Group: McGuirk Group</div><div>Institution: Simon Fraser University</div><div>State: BC</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Ultracold degenerate gases, BEC</div><a href="https://www.sfu.ca/physics/research/groups/mcguirk-group.html" target="_blank">https://www.sfu.ca/physics/research/groups/mcguirk-group.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-122.919883,49.278094,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Oxford United Kingdom]]></address>
+<description><![CDATA[<div>Group: Mekhov Group</div><div>Institution: University of Oxford</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Quantum Optics of Ultracold Gases</div><a href="http://www2.physics.ox.ac.uk/research/quantum-optics-of-quantum-many-body-systems" target="_blank">http://www2.physics.ox.ac.uk/research/quantum-optics-of-quantum-many-body-systems</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-1.254367,51.754816,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Bonn Germany]]></address>
+<description><![CDATA[<div>Group: Meschede Group</div><div>Institution: University of Bonn</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Cs</div><div>Description: Single atoms, cavity QED</div><div>People: Wolfgang Alt</div><a href="http://agmeschede.iap.uni-bonn.de" target="_blank">http://agmeschede.iap.uni-bonn.de</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>7.088418,50.728593,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hamburg Germany]]></address>
+<description><![CDATA[<div>Group: Moritz Group</div><div>Institution: University of Hamburg</div><div>Exp/Theory: Exp</div><div>Atoms: Li</div><div>Description: BEC, cold Fermi gases</div><a href="http://www.physik.uni-hamburg.de/ilp/moritz/" target="_blank">http://www.physik.uni-hamburg.de/ilp/moritz/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>9.984620,53.566564,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Bilbao Spain]]></address>
+<description><![CDATA[<div>Group: Muga Group</div><div>Institution: UPV-EHU</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Dynamics and control of ultracold atoms</div><a href="http://tp.lc.ehu.es/qist/" target="_blank">http://tp.lc.ehu.es/qist/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-2.011340,43.310464,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Atsugi Japan]]></address>
+<description><![CDATA[<div>Group: Mukai Group</div><div>Institution: NTT, Atsugi</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Cs</div><a href="http://www.brl.ntt.co.jp/people/tetsuya/" target="_blank">http://www.brl.ntt.co.jp/people/tetsuya/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>139.315611,35.440490,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Murnane Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Ultrafast light pulses</div><a href="http://jilawww.colorado.edu/kmgroup/" target="_blank">http://jilawww.colorado.edu/kmgroup/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Nascimbene Group</div><div>Institution: LKB College de France</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://www.college-de-france.fr/site/en-jean-dalibard/" target="_blank">http://www.college-de-france.fr/site/en-jean-dalibard/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.345490,48.848884,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Brisbane Australia]]></address>
+<description><![CDATA[<div>Group: Neely Group</div><div>Institution: University of Queensland</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://www.physics.uq.edu.au/" target="_blank">http://www.physics.uq.edu.au/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>153.012030,-27.495431,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Innsbruck Austria]]></address>
+<description><![CDATA[<div>Group: Nägerl Group</div><div>Institution: University of Innsbruck</div><div>Exp/Theory: Exp</div><div>Atoms: Cs, RbCs, KCs</div><a href="http://quantummatter.at" target="_blank">http://quantummatter.at</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>11.383801,47.263354,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hamilton Canada]]></address>
+<description><![CDATA[<div>Group: O'Dell Group</div><div>Institution: McMaster University</div><div>State: ON</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Cavity-QED, quantum impurities</div><a href="https://physwww.physics.mcmaster.ca/people/faculty/O%27Dell/O%27Dell_DHJ_h.html" target="_blank">https://physwww.physics.mcmaster.ca/people/faculty/O%27Dell/O%27Dell_DHJ_h.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-79.919225,43.260879,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[University Park United States]]></address>
+<description><![CDATA[<div>Group: O'Hara Group</div><div>Institution: Penn State</div><div>State: PA</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://www.phys.psu.edu/people/kmo10" target="_blank">http://www.phys.psu.edu/people/kmo10</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-77.859908,40.798213,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Heidelberg Germany]]></address>
+<description><![CDATA[<div>Group: Oberthaler Group</div><div>Institution: University of Heidelberg</div><div>Exp/Theory: Exp</div><div>Atoms: Ar, Rb</div><a href="https://www.kip.uni-heidelberg.de/matterwave/" target="_blank">https://www.kip.uni-heidelberg.de/matterwave/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>8.670250,49.419111,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Okazaki Japan]]></address>
+<description><![CDATA[<div>Group: Ohmori Group</div><div>Institution: Institute for Molecular Science</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://groups.ims.ac.jp/organization/ohmori_g/index-e.html" target="_blank">http://groups.ims.ac.jp/organization/ohmori_g/index-e.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>137.166521,34.947723,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Kaiserslautern Germany]]></address>
+<description><![CDATA[<div>Group: Ott Group</div><div>Institution: Kaiserslautern</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Quantum simulation and quantum information</div><a href="http://www.physik.uni-kl.de/en/ott/home/" target="_blank">http://www.physik.uni-kl.de/en/ott/home/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>7.749127,49.440066,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Toronto Canada]]></address>
+<description><![CDATA[<div>Group: Paramekanti Group</div><div>Institution: University of Toronto</div><div>State: ON</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold atoms in gauge fields</div><a href="https://paramekanti.weebly.com/" target="_blank">https://paramekanti.weebly.com/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-79.395656,43.662892,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Pohang South Korea]]></address>
+<description><![CDATA[<div>Group: Park Group</div><div>Institution: Pohang University of Science and Technology</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://ultracold.postech.ac.kr" target="_blank">http://ultracold.postech.ac.kr</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>129.323162,36.014007,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Newcastle United Kingdom]]></address>
+<description><![CDATA[<div>Group: Parker Group</div><div>Institution: Newcastle and Joint Quantum Centre</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Matter-wave solitons and vortices</div><a href="http://www.jqc.org.uk/people/nick-parker/30/" target="_blank">http://www.jqc.org.uk/people/nick-parker/30/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-1.584852,54.775250,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Kaiserslautern Germany]]></address>
+<description><![CDATA[<div>Group: Pelster Group</div><div>Institution: Universität Kaiserslautern</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Dirty bosons, dipolar quantum gases</div><a href="http://www.theo-phys.uni-essen.de/tp/ags/pelster_dir/" target="_blank">http://www.theo-phys.uni-essen.de/tp/ags/pelster_dir/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>7.755550,49.425377,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Villetaneuse France]]></address>
+<description><![CDATA[<div>Group: Perrin Group</div><div>Institution: Université Paris Nord / CNRS</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, Na</div><div>People: Hélène Perrin</div><a href="http://www-lpl.univ-paris13.fr/bec/" target="_blank">http://www-lpl.univ-paris13.fr/bec/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>2.341454,48.956155,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Copenhagen Denmark]]></address>
+<description><![CDATA[<div>Group: Pethick/Smith Group</div><div>Institution: Niels Bohr Institute/Nordita</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold gases and quantum information</div><div>People: Christopher Pethick, Henrik Smith</div><a href="http://www.cold-gases.nbi.dk/" target="_blank">http://www.cold-gases.nbi.dk/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>12.571562,55.696947,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Stuttgart Germany]]></address>
+<description><![CDATA[<div>Group: Pfau Group</div><div>Institution: University of Stuttgart</div><div>Exp/Theory: Exp</div><div>Atoms: Cr, Dy, Rb, Er</div><div>Description: Dipolar quantum gases</div><div>People: Tilman Pfau</div><a href="http://www.pi5.uni-stuttgart.de/index.php" target="_blank">http://www.pi5.uni-stuttgart.de/index.php</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>9.172498,48.781647,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Basel Switzerland]]></address>
+<description><![CDATA[<div>Group: Philipp Treutlein Group</div><div>Institution: University of Basel</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Quantum metrology with ultracold atoms</div><div>People: Philipp Treutlein</div><a href="https://atom.physik.unibas.ch" target="_blank">https://atom.physik.unibas.ch</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>7.578692,47.564731,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Gaithersburg United States]]></address>
+<description><![CDATA[<div>Group: Phillips Group</div><div>Institution: NIST, Gaithersburg</div><div>State: MD</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Na</div><div>People: Kristian Helmerson, Paul D. Lett</div><a href="http://physics.nist.gov/Divisions/Div842/Gp4/group4.html" target="_blank">http://physics.nist.gov/Divisions/Div842/Gp4/group4.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-77.220834,39.138053,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Orsay France]]></address>
+<description><![CDATA[<div>Group: Pillet Group</div><div>Institution: CNRS, Univ. Paris Sud</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, Er</div><div>Description: Cold molecules; BEC of caesium</div><div>People: Pierre Pillet, Daniel Comparat</div><a href="http://www.lac.u-psud.fr/" target="_blank">http://www.lac.u-psud.fr/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>2.276624,48.827265,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Copenhagen Denmark]]></address>
+<description><![CDATA[<div>Group: Polzik Group</div><div>Institution: Niels Bohr Institute</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><a href="http://www.nbi.ku.dk/side24813.htm" target="_blank">http://www.nbi.ku.dk/side24813.htm</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>12.571579,55.696950,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Newcastle United Kingdom]]></address>
+<description><![CDATA[<div>Group: Proukakis Group</div><div>Institution: Newcastle & Joint Quantum Centre</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: BEC and Quasi-Condensation</div><a href="http://www.jqc.org.uk/people/nick-proukakis/29/" target="_blank">http://www.jqc.org.uk/people/nick-proukakis/29/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-1.584852,54.775250,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Houston United States]]></address>
+<description><![CDATA[<div>Group: Pu Group</div><div>Institution: Rice</div><div>State: TX</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Theoretical Ultracold Atomic Physics</div><a href="http://www.ruf.rice.edu/~hpu/index.htm" target="_blank">http://www.ruf.rice.edu/~hpu/index.htm</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-95.401800,29.717400,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Ann Arbor United States]]></address>
+<description><![CDATA[<div>Group: Raithel Group</div><div>Institution: University of Michigan</div><div>State: MI</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Laser-cooling and trapping, quantum control</div><a href="http://cold-atoms.physics.lsa.umich.edu/" target="_blank">http://cold-atoms.physics.lsa.umich.edu/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-83.738224,42.278044,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Austin United States]]></address>
+<description><![CDATA[<div>Group: Raizen Group</div><div>Institution: University of Texas at Austin</div><div>State: TX</div><div>Exp/Theory: Exp</div><div>Atoms: H, Li</div><div>Description: BEC and Atom Optics</div><a href="http://www.ph.utexas.edu/~quantopt/" target="_blank">http://www.ph.utexas.edu/~quantopt/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-97.734057,30.284918,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Bangalore India]]></address>
+<description><![CDATA[<div>Group: Ramachandran Group</div><div>Institution: Raman Research institute</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, RbK</div><div>Description: Ultracold atoms/BEC/Quantum Optics</div><div>People: Hema Ramachandran</div><a href="http://www.rri.res.in/htmls/eo/index.html" target="_blank">http://www.rri.res.in/htmls/eo/index.html</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>77.580666,13.012826,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Atlanta United States]]></address>
+<description><![CDATA[<div>Group: Raman Group</div><div>Institution: Georgia Inst. of Technology</div><div>State: GA</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>Description: Quantum mechanics on macroscopic scales</div><a href="http://www.physics.gatech.edu/chandra/Welcome.html" target="_blank">http://www.physics.gatech.edu/chandra/Welcome.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-84.396285,33.775618,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Reichel Group</div><div>Institution: ENS Paris</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, Li, Dy, Yb, Na, He, Sr</div><div>Description: Atom Chips, Cavity QED</div><div>People: Jackob Reichel</div><a href="http://www.lkb.ens.fr/-Atom-chips-?lang=en" target="_blank">http://www.lkb.ens.fr/-Atom-chips-?lang=en</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>2.345169,48.842206,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Lund Sweden]]></address>
+<description><![CDATA[<div>Group: Reimann Group</div><div>Institution: Lund University</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="https://www.matfys.lu.se/staff/faculty/stephanie-m-reimann/" target="_blank">https://www.matfys.lu.se/staff/faculty/stephanie-m-reimann/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>13.208827,55.712514,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Munich Germany]]></address>
+<description><![CDATA[<div>Group: Rempe Group</div><div>Institution: MPQ</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><a href="http://www.mpq.mpg.de/qdynamics/" target="_blank">http://www.mpq.mpg.de/qdynamics/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>11.666723,48.259664,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Boulder United States]]></address>
+<description><![CDATA[<div>Group: Rey Group</div><div>Institution: JILA, Boulder</div><div>State: CO</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold atoms and molecules in optical lattices</div><a href="http://jilawww.colorado.edu/~arey/" target="_blank">http://jilawww.colorado.edu/~arey/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-105.268648,40.007436,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Glasgow United Kingdom]]></address>
+<description><![CDATA[<div>Group: Riis/Arnold Group</div><div>Institution: Strathclyde, Glasgow</div><div>Exp/Theory: Exp</div><div>Atoms: K, Rb, Cs, Ca</div><div>Description: Storage rings for BECs</div><div>People: Aidan Arnold, Erling Riis</div><a href="http://www.photonics.phys.strath.ac.uk" target="_blank">http://www.photonics.phys.strath.ac.uk</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-4.242853,55.862828,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Mandi India]]></address>
+<description><![CDATA[<div>Group: Roy Group</div><div>Institution: IIT Mandi</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="https://faculty.iitmandi.ac.in/~arko/" target="_blank">https://faculty.iitmandi.ac.in/~arko/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>76.986096,31.775380,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Brisbane Australia]]></address>
+<description><![CDATA[<div>Group: Rubinsztein-Dunlop Group</div><div>Institution: University of Queensland</div><div>Exp/Theory: Exp</div><div>Atoms: unknown</div><div>People: Halina Rubinsztein-Dunlop</div><a href="http://www.physics.uq.edu.au/atomoptics/" target="_blank">http://www.physics.uq.edu.au/atomoptics/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>153.012030,-27.495431,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Lancaster United Kingdom]]></address>
+<description><![CDATA[<div>Group: Ruostekoski Group</div><div>Institution: Lancaster University</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://www.lancaster.ac.uk/physics/about-us/people/janne-ruostekoski" target="_blank">http://www.lancaster.ac.uk/physics/about-us/people/janne-ruostekoski</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-2.787729,54.010394,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Charlottesville United States]]></address>
+<description><![CDATA[<div>Group: Sackett Group</div><div>Institution: University of Virginia</div><div>State: VA</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: Condensate interferometry</div><a href="http://galileo.phys.virginia.edu/research/groups/sackett/" target="_blank">http://galileo.phys.virginia.edu/research/groups/sackett/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-78.507977,38.033553,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Berlin Germany]]></address>
+<description><![CDATA[<div>Group: Saenz Group</div><div>Institution: Humboldt University Berlin</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="http://amo.physik.hu-berlin.de" target="_blank">http://amo.physik.hu-berlin.de</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>13.393655,52.517883,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Madison United States]]></address>
+<description><![CDATA[<div>Group: Saffman Group</div><div>Institution: University of Wisconsin - Madison</div><div>State: WI</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Rb, Cs, Ho</div><div>Description: Quantum computing, Rydberg atoms</div><a href="http://hexagon.physics.wisc.edu" target="_blank">http://hexagon.physics.wisc.edu</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>-89.412487,43.076592,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Haifa Israel]]></address>
+<description><![CDATA[<div>Group: Sagi Group</div><div>Institution: Technion</div><div>Exp/Theory: Exp</div><div>Atoms: K</div><a href="https://phsites.technion.ac.il/sagi/" target="_blank">https://phsites.technion.ac.il/sagi/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>35.023129,32.776757,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Padua Italy]]></address>
+<description><![CDATA[<div>Group: Salasnich Group</div><div>Institution: University of Padova</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Degenerate quantum gases</div><div>People: Luca Salasnich</div><a href="http://www.padova.infm.it/salasnich/tdqg.html" target="_blank">http://www.padova.infm.it/salasnich/tdqg.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>11.877446,45.406766,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Paris France]]></address>
+<description><![CDATA[<div>Group: Salomon Group</div><div>Institution: ENS Paris</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Li, Dy, Yb, Na, He, Sr</div><div>People: F. Chevy</div><a href="http://www.lkb.ens.fr/recherche/atfroids/welcome.html" target="_blank">http://www.lkb.ens.fr/recherche/atfroids/welcome.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>2.345169,48.842206,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hamburg Germany]]></address>
+<description><![CDATA[<div>Group: Salomon Group</div><div>Institution: University of Hamburg</div><div>Exp/Theory: Exp</div><div>Atoms: Sr</div><a href="http://www.lkb.ens.fr/recherche/atfroids/welcome.html" target="_blank">http://www.lkb.ens.fr/recherche/atfroids/welcome.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>9.984620,53.566564,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Palaiseau France]]></address>
+<description><![CDATA[<div>Group: Sanchez-Palencia Group</div><div>Institution: Ecole Polytechnique and CNRS</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Correlated quantum systems</div><a href="http://www.uquantmat.fr/" target="_blank">http://www.uquantmat.fr/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>2.211292,48.714297,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hannover Germany]]></address>
+<description><![CDATA[<div>Group: Santos Group</div><div>Institution: Leibniz University Hannover</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><a href="https://www.itp.uni-hannover.de/380.html" target="_blank">https://www.itp.uni-hannover.de/380.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>9.719699,52.382964,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Davis United States]]></address>
+<description><![CDATA[<div>Group: Scalettar Group</div><div>Institution: University of California, Davis</div><div>State: CA</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Quantum Monte Carlo simulations</div><a href="http://scalettar.physics.ucdavis.edu/" target="_blank">http://scalettar.physics.ucdavis.edu/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-121.749286,38.536048,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Blacksburg United States]]></address>
+<description><![CDATA[<div>Group: Scarola Group</div><div>Institution: Virginia Tech</div><div>State: VA</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Strongly correlated quantum phases</div><a href="http://www.phys.vt.edu/~scarola/index.html" target="_blank">http://www.phys.vt.edu/~scarola/index.html</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>-80.423417,37.228384,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Charlottesville United States]]></address>
+<description><![CDATA[<div>Group: Schauss Group</div><div>Institution: University of Virginia</div><div>State: VA</div><div>Exp/Theory: Exp</div><div>Atoms: Li</div><div>Description: Quantum gas microscopy</div><a href="http://ultracold.phys.virginia.edu" target="_blank">http://ultracold.phys.virginia.edu</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-78.508052,38.033629,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hamburg Germany]]></address>
+<description><![CDATA[<div>Group: Schmelcher Group</div><div>Institution: University of Hamburg</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Ultracold Rydberg atoms and molecules</div><a href="http://photon.physnet.uni-hamburg.de/ilp/schmelcher/" target="_blank">http://photon.physnet.uni-hamburg.de/ilp/schmelcher/</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>9.887146,53.577425,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Vienna Austria]]></address>
+<description><![CDATA[<div>Group: Schmiedmayer Group</div><div>Institution: Vienna University of Technology</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, Li, KRb</div><div>Description: Atom chips</div><a href="http://www.atomchip.org/" target="_blank">http://www.atomchip.org/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>16.368463,48.198655,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Stony Brook United States]]></address>
+<description><![CDATA[<div>Group: Schneble Group</div><div>Institution: SUNY Stony Brook</div><div>State: NY</div><div>Exp/Theory: Exp</div><div>Atoms: Rb</div><div>Description: BEC, optical lattices</div><a href="http://ultracold.physics.sunysb.edu" target="_blank">http://ultracold.physics.sunysb.edu</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>-73.123389,40.912376,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Cambridge United Kingdom]]></address>
+<description><![CDATA[<div>Group: Schneider Group</div><div>Institution: University of Cambridge</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, K, Sr</div><a href="https://www.manybody.phy.cam.ac.uk/" target="_blank">https://www.manybody.phy.cam.ac.uk/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>0.114908,52.204267,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Vienna Austria]]></address>
+<description><![CDATA[<div>Group: Schumm Group</div><div>Institution: Vienna University of Technology</div><div>Exp/Theory: Exp</div><div>Atoms: Th</div><div>Description: Thorium</div><a href="https://www.nuclock.eu/" target="_blank">https://www.nuclock.eu/</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>16.368463,48.198655,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Hamburg Germany]]></address>
+<description><![CDATA[<div>Group: Sengstock Group</div><div>Institution: Hamburg</div><div>Exp/Theory: Exp</div><div>Atoms: Rb, KRb, Yb, Li</div><div>People: V. M. Baev, K. Bongs</div><a href="https://www.physik.uni-hamburg.de/en/ilp/sengstock.html" target="_blank">https://www.physik.uni-hamburg.de/en/ilp/sengstock.html</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>9.993682,53.551085,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Norman United States]]></address>
+<description><![CDATA[<div>Group: Shaffer Group</div><div>Institution: University of Oklahoma</div><div>State: OK</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: Cs, Rb</div><div>Description: Ultracold Rydberg gases, atom chips</div><div>People: James Shaffer</div><a href="https://www.nhn.ou.edu/~shaffer/research/" target="_blank">https://www.nhn.ou.edu/~shaffer/research/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>-97.445714,35.205894,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Aarhus Denmark]]></address>
+<description><![CDATA[<div>Group: Sherson Group</div><div>Institution: Aarhus Universitet</div><div>Exp/Theory: Exp/Theory</div><div>Atoms: unknown</div><a href="http://phys.au.dk/qmmg/" target="_blank">http://phys.au.dk/qmmg/</a>]]></description>
+<styleUrl>#green</styleUrl>
+<Point> <coordinates>10.202991,56.168192,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Seoul South Korea]]></address>
+<description><![CDATA[<div>Group: Shin Group</div><div>Institution: Seoul National University</div><div>Exp/Theory: Exp</div><div>Atoms: Na, Yt</div><a href="http://qgl.snu.ac.kr" target="_blank">http://qgl.snu.ac.kr</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>126.951904,37.459879,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><address><![CDATA[Ropar India]]></address>
+<description><![CDATA[<div>Group: Shubhrangshu Dasgupta Group</div><div>Institution: Indian Institute of Technology Ropar</div><div>Exp/Theory: Theory</div><div>Atoms: theory</div><div>Description: Quantum plasmonics</div><a href="http://www.iitrpr.ac.in/physics/sdasgupta" target="_blank">http://www.iitrpr.ac.in/physics/sdasgupta</a>]]></description>
+<styleUrl>#blue</styleUrl>
+<Point> <coordinates>76.538868,30.975639,0</coordinates>
+</Point> 
+</Placemark>
+</Document>
+</kml>
+
