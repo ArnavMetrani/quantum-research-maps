@@ -1,4 +1,8 @@
 # quantum-research-maps
+
+# Maps:
+Cold atoms: https://www.easymapmaker.com/map/cold_atoms_worldwide
+
 Databases of quantum research groups. Inspired from:
 - (https://quantumoptics.at/en/links/ion-trapping-worldwide.html)
 - (https://everycoldatom.com/)
