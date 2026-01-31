@@ -3,6 +3,8 @@ Databases of quantum research groups. Inspired from:
 - (https://quantumoptics.at/en/links/ion-trapping-worldwide.html)
 - (https://everycoldatom.com/)
 
+For cold atoms, I wanted to create a version that was a bit less sluggish to load and sylistically different.
+
 # For issue reporting:
 Open an issue to report an error (incorrect characterisation, broken/defunct/changed URL, incorrect corrdinates, dissolved group, etc. ) or a missing group. Use pull requests as well.
 
