@@ -14,3 +14,8 @@ Use the issues section or pull requests.
 Data was collated from the wonderful repository of [zgosar](https://github.com/zgosar): [EveryColdAtom](https://github.com/zgosar/EveryColdAtom). Rest of the details were obtained from the master list mainained on the UToronto site: https://ucan.physics.utoronto.ca/research-groups/
 
 Made using claude.ai by Anthropic. This is a very rough implementation, so feel free to build a better one!
+
+# Tasks:
+- [ ] Do the same for Quantiki: https://quantiki.org/groups
+- [ ] Do the same for the qurope archived database.
+ 
